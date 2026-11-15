@@ -1,0 +1,9 @@
+{
+  "update": {
+    "latest_version": 3,
+    "required": true,
+    "title": "Bản cập nhật Cờ Tướng Kỳ Đạo 3.0",
+    "message": "Đã có phiên bản mới (v3.0), vui lòng cập nhật để tiếp tục sử dụng.",
+    "download_url": "https://github.com/jmcfree921/Cotuongkydao/releases/download/V3.0/Kydao3.0.apk"
+  }
+}
